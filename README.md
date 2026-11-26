@@ -4,13 +4,13 @@
 [![Rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
 [![Reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
 
-One-line joke giving an excuse for missing a deadline.
+A one-line joke that excuses a missed deadline.
 
 ## Entry
 
 > I handed the deadline to Future Me, and Future Me just filed for an extension.
 
-One line, 78 characters, one sentence. The excuse outsources the deadline to a future self who is just as avoidant — the punch lands on 'filed for an extension'.
+78 characters, a single sentence. The joke delegates the deadline to a future self who turns out to be just as avoidant — the punchline is the extension filing.
 
 ## Run
 
