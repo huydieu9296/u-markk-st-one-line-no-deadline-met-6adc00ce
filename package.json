@@ -1,0 +1,11 @@
+{
+  "description": "One Line, No Deadline Met \u2014 One-line joke giving an excuse for missing a deadline (make.fun bounty entry)",
+  "license": "MIT",
+  "main": "main.ts",
+  "name": "u-markk-st-one-line-no-deadline-met-6adc00ce",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
